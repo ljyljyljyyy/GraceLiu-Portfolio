@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Grace Liu</title>
+    <link>https://ljyljyljyyy.github.io/GraceLiu-Portfolio/post/</link>
+    <description>Recent content in Projects on Grace Liu</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 02 Mar 2021 12:00:00 -0500</lastBuildDate><atom:link href="https://ljyljyljyyy.github.io/GraceLiu-Portfolio/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project 3: Predicting 2020 U.S. Federal Presidential Election</title>
+      <link>https://ljyljyljyyy.github.io/GraceLiu-Portfolio/post/project3/</link>
+      <pubDate>Sun, 01 Nov 2020 11:13:32 -0400</pubDate>
+      
+      <guid>https://ljyljyljyyy.github.io/GraceLiu-Portfolio/post/project3/</guid>
+      <description>Constructed a logistic regression with random intercepts model to analyze the log odds of voting for Trump as a linear combination of predictors, estimating both fixed and random effects from individual and group-leveled data
+  Performed post-stratification to adjust the weights of the survey sample based on Census data, ensuring that nonresponse and underrepresented groups are accounted for
+        Link to GitHub Repository</description>
+    </item>
+    
+    <item>
+      <title>Project 2: Testing Causality between Smoking and Sleep Trouble</title>
+      <link>https://ljyljyljyyy.github.io/GraceLiu-Portfolio/post/project2/</link>
+      <pubDate>Fri, 09 Oct 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://ljyljyljyyy.github.io/GraceLiu-Portfolio/post/project2/</guid>
+      <description>Applied propensity score matching to isolate the effects of smoking on sleep trouble by creating matches between a basis non-smoking group and a comparison smoking group with similar pretreatment characteristics, preserving 94% of original data for causality analysis
+  Predicted the probability of experiencing sleep trouble using logistic regression in R, ensuring that the results are representative by checking model diagnostics and addressing model inferences and limitations</description>
+    </item>
+    
+    <item>
+      <title>Project 1: Modelling Canada’s Social Distancing during COVID-19</title>
+      <link>https://ljyljyljyyy.github.io/GraceLiu-Portfolio/post/project1/</link>
+      <pubDate>Sat, 06 Jun 2020 11:00:59 -0400</pubDate>
+      
+      <guid>https://ljyljyljyyy.github.io/GraceLiu-Portfolio/post/project1/</guid>
+      <description>Created a new metric &amp;ldquo;Social Distancing Score&amp;rdquo; from Google&amp;rsquo;s community data by standardizing 6 mobility factors
+  Prepared regression data using cross validation, residual&amp;amp;QQ plots, influential observations and feature selection to construct MLR measuring the significance of factors that influence social distancing behaviour
+  Eliminated the problem of multicollinearity and improved inference by 20% by computing the permutation feature importance after fitting a random forests classifier</description>
+    </item>
+    
+  </channel>
+</rss>
